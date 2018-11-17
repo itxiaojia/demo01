@@ -2,6 +2,8 @@ public class User{
 	
 	public static void main(String[] args){
 		
-		System.out.prient("Hello Java")
+		System.out.println("Hello Java");
+		
+		System.out.println("ÄúºÃ ,ÎÒ½Ð¼Ö´æ»Û");
 	}
 }
