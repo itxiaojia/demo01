@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>angularJs控制器</title>
+    <script src="plugins/angularjs/angular.min.js"></script>
+</head>
+    <script type="text/javascript">
+        function helloController($scope) {
+            return $scope.greeting={
+                test:"你好 angularJs"
+            }
+        }
+        function helloController2($scope) {
+            return $scope.user={
+                username:"jack",
+                age:18
+            }
+        }
+    </script>
+<!--
+    1,ng-app:把指令所在闭合标签中所有元素交给angularJS管理
+    2,{{}}:取值表达式，插值表达式
+    3,ng-model:绑定表单参数
+    4,ng-controller:指定使用哪个控制器函数 （控制器的所在闭合标签都属于此控制器管理范围）
+-->
+<body ng-app>
+    <h3 ng-controller="helloController">
+        {{greeting.test}}
+    </h3>
+    <h3 ng-controller="helloController2">
+        {{user.username}}
+        {{user.age}}
+    </h3>
+</body>
+</html>

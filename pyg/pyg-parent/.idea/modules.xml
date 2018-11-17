@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../alicom-dysms-api/alicom-dysms-api.iml" filepath="$PROJECT_DIR$/../alicom-dysms-api/alicom-dysms-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../itheima_activemq/itheima_activemq.iml" filepath="$PROJECT_DIR$/../itheima_activemq/itheima_activemq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../itheima_cas_springsecurity/itheima_cas_springsecurity.iml" filepath="$PROJECT_DIR$/../itheima_cas_springsecurity/itheima_cas_springsecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../itheima_cas_web1/itheima_cas_web1.iml" filepath="$PROJECT_DIR$/../itheima_cas_web1/itheima_cas_web1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../itheima_cas_web2/itheima_cas_web2.iml" filepath="$PROJECT_DIR$/../itheima_cas_web2/itheima_cas_web2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../itheima_freemarker/itheima_freemarker.iml" filepath="$PROJECT_DIR$/../itheima_freemarker/itheima_freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../itheima_httpclient/itheima_httpclient.iml" filepath="$PROJECT_DIR$/../itheima_httpclient/itheima_httpclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../itheima_spring_data_redis/itheima_spring_data_redis.iml" filepath="$PROJECT_DIR$/../itheima_spring_data_redis/itheima_spring_data_redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../itheima_spring_data_solr/itheima_spring_data_solr.iml" filepath="$PROJECT_DIR$/../itheima_spring_data_solr/itheima_spring_data_solr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-cart/pyg-cart.iml" filepath="$PROJECT_DIR$/../pyg-cart/pyg-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-cart/pyg-cart-interface/pyg-cart-interface.iml" filepath="$PROJECT_DIR$/../pyg-cart/pyg-cart-interface/pyg-cart-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-cart/pyg-cart-service/pyg-cart-service.iml" filepath="$PROJECT_DIR$/../pyg-cart/pyg-cart-service/pyg-cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-cart-web/pyg-cart-web.iml" filepath="$PROJECT_DIR$/../pyg-cart-web/pyg-cart-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-common/pyg-common.iml" filepath="$PROJECT_DIR$/../pyg-common/pyg-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-content/pyg-content.iml" filepath="$PROJECT_DIR$/../pyg-content/pyg-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-content/pyg-content-interface/pyg-content-interface.iml" filepath="$PROJECT_DIR$/../pyg-content/pyg-content-interface/pyg-content-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-content/pyg-content-service/pyg-content-service.iml" filepath="$PROJECT_DIR$/../pyg-content/pyg-content-service/pyg-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-dao/pyg-dao.iml" filepath="$PROJECT_DIR$/../pyg-dao/pyg-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-manager/pyg-manager.iml" filepath="$PROJECT_DIR$/../pyg-manager/pyg-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-manager/pyg-manager-interface/pyg-manager-interface.iml" filepath="$PROJECT_DIR$/../pyg-manager/pyg-manager-interface/pyg-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-manager/pyg-manager-service/pyg-manager-service.iml" filepath="$PROJECT_DIR$/../pyg-manager/pyg-manager-service/pyg-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-manager-web/pyg-manager-web.iml" filepath="$PROJECT_DIR$/../pyg-manager-web/pyg-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-order/pyg-order.iml" filepath="$PROJECT_DIR$/../pyg-order/pyg-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-order/pyg-order-interface/pyg-order-interface.iml" filepath="$PROJECT_DIR$/../pyg-order/pyg-order-interface/pyg-order-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-order/pyg-order-service/pyg-order-service.iml" filepath="$PROJECT_DIR$/../pyg-order/pyg-order-service/pyg-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-page/pyg-page.iml" filepath="$PROJECT_DIR$/../pyg-page/pyg-page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-page/pyg-page-interface/pyg-page-interface.iml" filepath="$PROJECT_DIR$/../pyg-page/pyg-page-interface/pyg-page-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-page/pyg-page-service/pyg-page-service.iml" filepath="$PROJECT_DIR$/../pyg-page/pyg-page-service/pyg-page-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg-parent.iml" filepath="$PROJECT_DIR$/pyg-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-pay/pyg-pay.iml" filepath="$PROJECT_DIR$/../pyg-pay/pyg-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-pay/pyg-pay-interface/pyg-pay-interface.iml" filepath="$PROJECT_DIR$/../pyg-pay/pyg-pay-interface/pyg-pay-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-pay/pyg-pay-service/pyg-pay-service.iml" filepath="$PROJECT_DIR$/../pyg-pay/pyg-pay-service/pyg-pay-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-pojo/pyg-pojo.iml" filepath="$PROJECT_DIR$/../pyg-pojo/pyg-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-protal-web/pyg-protal-web.iml" filepath="$PROJECT_DIR$/../pyg-protal-web/pyg-protal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-search/pyg-search.iml" filepath="$PROJECT_DIR$/../pyg-search/pyg-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-search/pyg-search-interface/pyg-search-interface.iml" filepath="$PROJECT_DIR$/../pyg-search/pyg-search-interface/pyg-search-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-search/pyg-search-service/pyg-search-service.iml" filepath="$PROJECT_DIR$/../pyg-search/pyg-search-service/pyg-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-search-web/pyg-search-web.iml" filepath="$PROJECT_DIR$/../pyg-search-web/pyg-search-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-seckill/pyg-seckill.iml" filepath="$PROJECT_DIR$/../pyg-seckill/pyg-seckill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-seckill/pyg-seckill-interface/pyg-seckill-interface.iml" filepath="$PROJECT_DIR$/../pyg-seckill/pyg-seckill-interface/pyg-seckill-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-seckill/pyg-seckill-service/pyg-seckill-service.iml" filepath="$PROJECT_DIR$/../pyg-seckill/pyg-seckill-service/pyg-seckill-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-seckill-task/pyg-seckill-task.iml" filepath="$PROJECT_DIR$/../pyg-seckill-task/pyg-seckill-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-seckill-web/pyg-seckill-web.iml" filepath="$PROJECT_DIR$/../pyg-seckill-web/pyg-seckill-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-shop-web/pyg-shop-web.iml" filepath="$PROJECT_DIR$/../pyg-shop-web/pyg-shop-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-sms-web/pyg-sms-web.iml" filepath="$PROJECT_DIR$/../pyg-sms-web/pyg-sms-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-sqlgenerator/pyg-sqlgenerator.iml" filepath="$PROJECT_DIR$/../pyg-sqlgenerator/pyg-sqlgenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-user/pyg-user.iml" filepath="$PROJECT_DIR$/../pyg-user/pyg-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-user/pyg-user-interface/pyg-user-interface.iml" filepath="$PROJECT_DIR$/../pyg-user/pyg-user-interface/pyg-user-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-user/pyg-user-service/pyg-user-service.iml" filepath="$PROJECT_DIR$/../pyg-user/pyg-user-service/pyg-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-user-web/pyg-user-web.iml" filepath="$PROJECT_DIR$/../pyg-user-web/pyg-user-web.iml" />
+    </modules>
+  </component>
+</project>

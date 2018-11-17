@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.pyg.map
+per.BrandMapper">
+    <!--查询所有品牌数据-->
+    <select id="findAll" resultType="tbBrand">
+      SELECT id,name,first_char firstChar from tb_brand
+    </select>
+    <!--添加品牌-->
+    <insert id="insert" parameterType="tbBrand">
+      insert into tb_brand values(#{id},#{name},#{firstChar})
+    </insert>
+    <!--根据id查询-->
+    <select id="findOne" parameterType="long" resultType="tbBrand">
+        SELECT id,name,first_Char firstChar from tb_brand where id=#{id}
+    </select>
+    <!--更新品牌数据-->
+    <update id="update" parameterType="tbBrand">
+        update tb_brand set name=#{name},first_char=#{firstChar} where id=#{id}
+    </update>
+    <!--更具id删除品牌数据-->
+    <delete id="delete" parameterType="long">
+        delete from tb_brand where id=#{id}
+    </delete>
+    <!--条件查询,并分页-->
+    <select id="findQv" parameterType="queryVo" resultType="tbBrand">
+        select * from tb_brand
+        <where>
+            <if test="tbBrand.name!=null and tbBrand.name!=''">
+                and name like "%"#{tbBrand.name}"%"
+            </if>
+            <if test="tbBrand.firstChar!=null and tbBrand.firstChar!=''">
+                and first_char like "%"#{tbBrand.firstChar}"%"
+            </if>
+        </where>
+    </select>
+</mapper>

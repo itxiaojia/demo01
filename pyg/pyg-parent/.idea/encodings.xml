@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../itheima_activemq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../itheima_cas_springsecurity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../itheima_cas_web1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../itheima_cas_web2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../itheima_freemarker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../itheima_spring_data_solr" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-order/pyg-order-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-order/pyg-order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-page" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-page/pyg-page-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-page/pyg-page-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-pay/pyg-pay-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-pay/pyg-pay-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-search-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-search/pyg-search-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-search/pyg-search-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-seckill" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-seckill-task" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-seckill-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-seckill/pyg-seckill-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-seckill/pyg-seckill-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-sms-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-user-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-user/pyg-user-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pyg-user/pyg-user-service" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>小Demo-判断你的浏览器是否支持LocalStorage</title>
+</head>
+<body>
+<script type="text/javascript">
+    //验证该浏览器是否支持localStorage
+    if(window.localStorage){
+        var store=window.localStorage;
+        alert("支持LocalStorage");
+    }else{
+        alert('你的浏览器不支持localStorage!');
+    }
+</script>
+</body>
+</html>

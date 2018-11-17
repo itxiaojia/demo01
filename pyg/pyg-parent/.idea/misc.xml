@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../itheima_cas_springsecurity" />
+    <file type="web" url="file://$PROJECT_DIR$/../itheima_cas_web1" />
+    <file type="web" url="file://$PROJECT_DIR$/../itheima_cas_web2" />
+    <file type="web" url="file://$PROJECT_DIR$/../pyg-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../pyg-cart/pyg-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../pyg-content/pyg-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../pyg-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../pyg-manager/pyg-manager-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../pyg-order/pyg-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../pyg-page/pyg-page-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../pyg-pay/pyg-pay-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../pyg-protal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../pyg-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../pyg-search/pyg-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../pyg-seckill-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../pyg-seckill/pyg-seckill-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../pyg-shop-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../pyg-sms-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../pyg-user-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../pyg-user/pyg-user-service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-common/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-shop-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-sqlgenerator/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-protal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-content/pom.xml" />
+        <option value="$PROJECT_DIR$/../itheima_spring_data_redis/pom.xml" />
+        <option value="$PROJECT_DIR$/../itheima_spring_data_solr/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-search/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-search-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../itheima_freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-page/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-manager/pyg-manager-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../itheima_activemq/pom.xml" />
+        <option value="$PROJECT_DIR$/../itheima_httpclient/pom.xml" />
+        <option value="$PROJECT_DIR$/../alicom-dysms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-sms-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-user/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-user-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../itheima_cas_web1/pom.xml" />
+        <option value="$PROJECT_DIR$/../itheima_cas_web2/pom.xml" />
+        <option value="$PROJECT_DIR$/../itheima_cas_springsecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-order/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-pay/pyg-pay-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-pay/pyg-pay-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-seckill/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-seckill/pyg-seckill-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-seckill/pyg-seckill-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-seckill-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../pyg-seckill-task/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

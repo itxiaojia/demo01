@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="alicom-dysms-api" />
+        <module name="itcast_httpclient" />
+        <module name="itheima_activemq" />
+        <module name="itheima_cas_springsecurity" />
+        <module name="itheima_cas_web1" />
+        <module name="itheima_cas_web2" />
+        <module name="itheima_freemarker" />
+        <module name="itheima_httpclient" />
+        <module name="itheima_spring_data_redis" />
+        <module name="itheima_spring_data_solr" />
+        <module name="pyg-cart-interface" />
+        <module name="pyg-cart-service" />
+        <module name="pyg-cart-web" />
+        <module name="pyg-common" />
+        <module name="pyg-content-interface" />
+        <module name="pyg-content-service" />
+        <module name="pyg-dao" />
+        <module name="pyg-manager-interface" />
+        <module name="pyg-manager-service" />
+        <module name="pyg-manager-web" />
+        <module name="pyg-order-interface" />
+        <module name="pyg-order-service" />
+        <module name="pyg-page-interface" />
+        <module name="pyg-page-service" />
+        <module name="pyg-pay-interface" />
+        <module name="pyg-pay-service" />
+        <module name="pyg-pojo" />
+        <module name="pyg-protal-web" />
+        <module name="pyg-search-interface" />
+        <module name="pyg-search-service" />
+        <module name="pyg-search-web" />
+        <module name="pyg-seckill-interface" />
+        <module name="pyg-seckill-service" />
+        <module name="pyg-seckill-task" />
+        <module name="pyg-seckill-web" />
+        <module name="pyg-shop-web" />
+        <module name="pyg-sms-web" />
+        <module name="pyg-sqlgenerator" />
+        <module name="pyg-user-interface" />
+        <module name="pyg-user-service" />
+        <module name="pyg-user-web" />
+        <module name="pygsearchservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="alicom-dysms-api" target="1.5" />
+      <module name="itcast_httpclient" target="1.5" />
+      <module name="itheima_activemq" target="1.8" />
+      <module name="itheima_cas_springsecurity" target="1.8" />
+      <module name="itheima_cas_web1" target="1.8" />
+      <module name="itheima_cas_web2" target="1.8" />
+      <module name="itheima_freemarker" target="1.8" />
+      <module name="itheima_httpclient" target="1.5" />
+      <module name="itheima_spring_data_redis" target="1.7" />
+      <module name="itheima_spring_data_solr" target="1.8" />
+      <module name="pyg-cart" target="1.8" />
+      <module name="pyg-cart-interface" target="1.8" />
+      <module name="pyg-cart-service" target="1.8" />
+      <module name="pyg-cart-web" target="1.8" />
+      <module name="pyg-common" target="1.8" />
+      <module name="pyg-content" target="1.8" />
+      <module name="pyg-content-interface" target="1.8" />
+      <module name="pyg-content-service" target="1.8" />
+      <module name="pyg-content-web" target="1.8" />
+      <module name="pyg-dao" target="1.8" />
+      <module name="pyg-manager" target="1.8" />
+      <module name="pyg-manager-interface" target="1.8" />
+      <module name="pyg-manager-service" target="1.8" />
+      <module name="pyg-manager-web" target="1.8" />
+      <module name="pyg-order" target="1.8" />
+      <module name="pyg-order-interface" target="1.8" />
+      <module name="pyg-order-service" target="1.8" />
+      <module name="pyg-page" target="1.8" />
+      <module name="pyg-page-interface" target="1.8" />
+      <module name="pyg-page-service" target="1.8" />
+      <module name="pyg-parent" target="1.8" />
+      <module name="pyg-pay" target="1.8" />
+      <module name="pyg-pay-interface" target="1.8" />
+      <module name="pyg-pay-service" target="1.8" />
+      <module name="pyg-pojo" target="1.8" />
+      <module name="pyg-protal-web" target="1.8" />
+      <module name="pyg-search" target="1.8" />
+      <module name="pyg-search-interface" target="1.8" />
+      <module name="pyg-search-service" target="1.8" />
+      <module name="pyg-search-web" target="1.8" />
+      <module name="pyg-seckill" target="1.8" />
+      <module name="pyg-seckill-interface" target="1.8" />
+      <module name="pyg-seckill-service" target="1.8" />
+      <module name="pyg-seckill-task" target="1.8" />
+      <module name="pyg-seckill-web" target="1.8" />
+      <module name="pyg-shop-web" target="1.8" />
+      <module name="pyg-sms-web" target="1.8" />
+      <module name="pyg-sqlgenerator" target="1.5" />
+      <module name="pyg-user" target="1.8" />
+      <module name="pyg-user-interface" target="1.8" />
+      <module name="pyg-user-service" target="1.8" />
+      <module name="pyg-user-web" target="1.8" />
+      <module name="pyg-web" target="1.5" />
+      <module name="pygcartservice" target="1.8" />
+      <module name="pygorder" target="1.8" />
+      <module name="pygsearchservice" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

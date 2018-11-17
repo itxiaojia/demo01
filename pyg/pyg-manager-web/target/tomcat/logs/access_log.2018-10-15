@@ -1,0 +1,7 @@
+127.0.0.1 - - [15/Oct/2018:19:41:20 +0800] "GET / HTTP/1.0" 302 - http-bio-8082-exec-1 82
+127.0.0.1 - - [15/Oct/2018:19:41:20 +0800] "GET /assets/img/favicon.ico HTTP/1.0" 302 - http-bio-8082-exec-2 13
+127.0.0.1 - - [15/Oct/2018:19:41:23 +0800] "POST /login HTTP/1.0" 302 - http-bio-8082-exec-3 14
+127.0.0.1 - - [15/Oct/2018:19:41:23 +0800] "GET /admin/index.html HTTP/1.0" 200 21950 http-bio-8082-exec-4 44
+127.0.0.1 - - [15/Oct/2018:19:41:23 +0800] "GET /admin/home.html HTTP/1.0" 200 4468 http-bio-8082-exec-5 11
+127.0.0.1 - - [15/Oct/2018:19:41:24 +0800] "GET /login/name HTTP/1.0" 200 21 http-bio-8082-exec-6 70
+127.0.0.1 - - [15/Oct/2018:19:41:24 +0800] "GET /favicon.ico HTTP/1.0" 404 973 http-bio-8082-exec-7 13

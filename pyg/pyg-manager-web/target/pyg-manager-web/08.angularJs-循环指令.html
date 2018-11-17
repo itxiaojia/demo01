@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>angularJs模块化</title>
+    <script src="plugins/angularjs/angular.min.js"></script>
+</head>
+
+<script type="text/javascript">
+    //定义模块
+    var app = angular.module("pyg",[]);
+    //定义控制器
+    app.controller("helloController",function ($scope) {
+        //定义controller
+        $scope.showName=function () {
+            return "Hello";
+        };
+        //定义数组
+        $scope.array=["刘备","张飞","关羽","赵本山"];
+        //定义数组对象
+        $scope.userList = [{name: '张三', shuxue: 100, yuwen: 93},
+            {name: '李四', shuxue: 88, yuwen: 87},
+            {name: '王五', shuxue: 77, yuwen: 56}
+        ];
+    })
+</script>
+<!--
+    1,ng-app:把指令所在闭合标签中所有元素交给angularJS管理
+    2,{{}}:取值表达式，插值表达式
+    3,ng-model:绑定表单参数
+    4,ng-controller:指定使用哪个控制器函数 （控制器的所在闭合标签都属于此控制器管理范围）
+    5,ng-repeat : 用来循环数组数据，或者是集合数据
+-->
+<body ng-app="pyg" ng-controller="helloController">
+    <ul>
+        <li ng-repeat="arr in array">
+            {{arr}}
+        </li>
+    </ul>
+    <ul>
+        <li ng-repeat="user in userList">
+            {{user.name}}=={{user.shuxue}}=={{user.yuwen}}
+        </li>
+    </ul>
+</body>
+</html>

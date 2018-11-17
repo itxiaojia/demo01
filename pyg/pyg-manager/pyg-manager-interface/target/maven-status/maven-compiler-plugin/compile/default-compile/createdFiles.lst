@@ -1,0 +1,9 @@
+com\pyg\manager\service\GoodsService.class
+com\pyg\manager\service\ItemService.class
+com\pyg\manager\service\SpecificationOptionService.class
+com\pyg\manager\service\GoodsDescService.class
+com\pyg\manager\service\ItemCatService.class
+com\pyg\manager\service\TypeTemplateService.class
+com\pyg\manager\service\BrandService.class
+com\pyg\manager\service\SpecificationService.class
+com\pyg\manager\service\SellerService.class

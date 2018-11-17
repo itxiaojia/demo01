@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [18/Oct/2018:17:41:49 +0800] "GET /cart/addGoodsToCartList?itemId=149187842867985&num=1 HTTP/1.1" 404 997 http-bio-8091-exec-1 45
+0:0:0:0:0:0:0:1 - - [18/Oct/2018:17:41:49 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8091-exec-3 1

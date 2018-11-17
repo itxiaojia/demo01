@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>angularJs数据双向绑定</title>
+    <script src="plugins/angularjs/angular.min.js"></script>
+</head>
+<!--
+    1,ng-app:把指令所在闭合标签中所有元素交给angularJS管理
+    2,{{}}:取值表达式，插值表达式
+    3,ng-model:绑定表单参数
+-->
+<body ng-app>
+    姓名<input type="text" ng-model="username"/><br/>
+    年龄<input type="text" ng-model="age"/><br/>
+    显示<h3>{{username}}</h3><br/>
+    显示<h3>{{age}}</h3><br/>
+</body>
+</html>
